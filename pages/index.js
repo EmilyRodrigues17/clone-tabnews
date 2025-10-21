@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Lucas, olha o que eu fiz, hehe!</h1>
+    return <h1>Queria estar jogando stardew valley</h1>
 }
 
 export default Home;
